@@ -1,6 +1,6 @@
 ---
 id: HAT9q
-name: Portfolio
+name: Welcome to my Blog!
 file_version: 1.0.2
 app_version: 0.6.2-0
 ---
